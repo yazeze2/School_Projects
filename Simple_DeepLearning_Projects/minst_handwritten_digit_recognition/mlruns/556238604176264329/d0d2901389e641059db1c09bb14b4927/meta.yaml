@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/556238604176264329/d0d2901389e641059db1c09bb14b4927/artifacts
+end_time: 1691014682297
+entry_point_name: ''
+experiment_id: '556238604176264329'
+lifecycle_stage: active
+run_id: d0d2901389e641059db1c09bb14b4927
+run_name: capricious-gnat-105
+run_uuid: d0d2901389e641059db1c09bb14b4927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691014682268
+status: 3
+tags: []
+user_id: ynany

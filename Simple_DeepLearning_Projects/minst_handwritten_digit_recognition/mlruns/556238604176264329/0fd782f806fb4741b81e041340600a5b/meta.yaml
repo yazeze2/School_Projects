@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/556238604176264329/0fd782f806fb4741b81e041340600a5b/artifacts
+end_time: 1691014796605
+entry_point_name: ''
+experiment_id: '556238604176264329'
+lifecycle_stage: active
+run_id: 0fd782f806fb4741b81e041340600a5b
+run_name: selective-horse-722
+run_uuid: 0fd782f806fb4741b81e041340600a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691014796573
+status: 3
+tags: []
+user_id: ynany

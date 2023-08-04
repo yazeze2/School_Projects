@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/e638144c9f9748b0a2e2377ba18ea62b/artifacts
+end_time: 1691104689212
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: e638144c9f9748b0a2e2377ba18ea62b
+run_name: calm-bee-202
+run_uuid: e638144c9f9748b0a2e2377ba18ea62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691104689102
+status: 3
+tags: []
+user_id: ynany

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/cf771b4de28946f69ed9efb44a05fa1a/artifacts
+end_time: 1691102413478
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: cf771b4de28946f69ed9efb44a05fa1a
+run_name: ambitious-quail-658
+run_uuid: cf771b4de28946f69ed9efb44a05fa1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691102413384
+status: 3
+tags: []
+user_id: ynany

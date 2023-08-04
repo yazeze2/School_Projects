@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/0f5aa1f718e74f61ac2dce7214d0a9ac/artifacts
+end_time: 1691105736994
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: 0f5aa1f718e74f61ac2dce7214d0a9ac
+run_name: marvelous-moose-624
+run_uuid: 0f5aa1f718e74f61ac2dce7214d0a9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691105736900
+status: 3
+tags: []
+user_id: ynany

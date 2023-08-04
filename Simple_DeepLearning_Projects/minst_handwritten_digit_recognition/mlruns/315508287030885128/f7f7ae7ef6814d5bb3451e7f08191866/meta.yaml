@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/f7f7ae7ef6814d5bb3451e7f08191866/artifacts
+end_time: 1691102139800
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: f7f7ae7ef6814d5bb3451e7f08191866
+run_name: rebellious-crab-974
+run_uuid: f7f7ae7ef6814d5bb3451e7f08191866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691102139705
+status: 3
+tags: []
+user_id: ynany

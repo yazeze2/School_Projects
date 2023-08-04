@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/b8d37e2cff3f44068deb1532bc743639/artifacts
+end_time: 1691105460071
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: b8d37e2cff3f44068deb1532bc743639
+run_name: thundering-horse-966
+run_uuid: b8d37e2cff3f44068deb1532bc743639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691105459960
+status: 3
+tags: []
+user_id: ynany

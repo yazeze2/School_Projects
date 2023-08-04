@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/7dfe396d16214408a564cd404960e629/artifacts
+end_time: 1691104077768
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: 7dfe396d16214408a564cd404960e629
+run_name: vaunted-sow-138
+run_uuid: 7dfe396d16214408a564cd404960e629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691104077674
+status: 3
+tags: []
+user_id: ynany

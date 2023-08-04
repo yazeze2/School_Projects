@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/2df6448f7f664494b2592016ed88d326/artifacts
+end_time: 1691103558223
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: 2df6448f7f664494b2592016ed88d326
+run_name: powerful-trout-709
+run_uuid: 2df6448f7f664494b2592016ed88d326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691103558129
+status: 3
+tags: []
+user_id: ynany

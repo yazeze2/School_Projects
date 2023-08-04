@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/a98472a2785f4a239f15323486d70b4a/artifacts
+end_time: 1691103176148
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: a98472a2785f4a239f15323486d70b4a
+run_name: welcoming-mole-31
+run_uuid: a98472a2785f4a239f15323486d70b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691103176026
+status: 3
+tags: []
+user_id: ynany

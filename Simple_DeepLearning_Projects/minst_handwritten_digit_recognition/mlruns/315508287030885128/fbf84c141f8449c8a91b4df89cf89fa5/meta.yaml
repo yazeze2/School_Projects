@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/fbf84c141f8449c8a91b4df89cf89fa5/artifacts
+end_time: 1691101499398
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: fbf84c141f8449c8a91b4df89cf89fa5
+run_name: upbeat-mole-601
+run_uuid: fbf84c141f8449c8a91b4df89cf89fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691101499305
+status: 3
+tags: []
+user_id: ynany

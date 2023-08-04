@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/315508287030885128/9c54e9ed957f4ba380fd577ddae4355e/artifacts
+end_time: 1691104131026
+entry_point_name: ''
+experiment_id: '315508287030885128'
+lifecycle_stage: active
+run_id: 9c54e9ed957f4ba380fd577ddae4355e
+run_name: classy-bird-223
+run_uuid: 9c54e9ed957f4ba380fd577ddae4355e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691104130901
+status: 3
+tags: []
+user_id: ynany

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/0c61f08796b544aebf7a4df33fb11d02/artifacts
+end_time: 1696690072514
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 0c61f08796b544aebf7a4df33fb11d02
+run_name: aged-ant-947
+run_uuid: 0c61f08796b544aebf7a4df33fb11d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690072427
+status: 3
+tags: []
+user_id: ynany

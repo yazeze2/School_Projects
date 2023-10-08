@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/afde78c2928648be9e21bb7d9d7663c9/artifacts
+end_time: 1696690591590
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: afde78c2928648be9e21bb7d9d7663c9
+run_name: peaceful-panda-314
+run_uuid: afde78c2928648be9e21bb7d9d7663c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690591543
+status: 3
+tags: []
+user_id: ynany

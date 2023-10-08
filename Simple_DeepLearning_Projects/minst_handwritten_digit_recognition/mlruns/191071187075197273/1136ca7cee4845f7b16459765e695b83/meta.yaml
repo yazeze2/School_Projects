@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/1136ca7cee4845f7b16459765e695b83/artifacts
+end_time: 1696691070799
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 1136ca7cee4845f7b16459765e695b83
+run_name: fun-panda-310
+run_uuid: 1136ca7cee4845f7b16459765e695b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696691070685
+status: 3
+tags: []
+user_id: ynany

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/ad7594fe82bc4ef6a5d7e300c0738054/artifacts
+end_time: 1696691180927
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: ad7594fe82bc4ef6a5d7e300c0738054
+run_name: lyrical-bass-444
+run_uuid: ad7594fe82bc4ef6a5d7e300c0738054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696691180801
+status: 3
+tags: []
+user_id: ynany

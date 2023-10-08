@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/169f7f84d39d4df1a63f2da93dd53c66/artifacts
+end_time: 1696690952289
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 169f7f84d39d4df1a63f2da93dd53c66
+run_name: painted-newt-770
+run_uuid: 169f7f84d39d4df1a63f2da93dd53c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690952178
+status: 3
+tags: []
+user_id: ynany

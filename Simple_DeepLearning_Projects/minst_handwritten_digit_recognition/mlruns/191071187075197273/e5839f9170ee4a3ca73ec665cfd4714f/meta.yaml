@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/e5839f9170ee4a3ca73ec665cfd4714f/artifacts
+end_time: 1696690099554
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: e5839f9170ee4a3ca73ec665cfd4714f
+run_name: sincere-slug-773
+run_uuid: e5839f9170ee4a3ca73ec665cfd4714f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690099449
+status: 3
+tags: []
+user_id: ynany

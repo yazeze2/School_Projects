@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/3b24c465b8854107a1fb21c894c8236b/artifacts
+end_time: 1696692987327
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 3b24c465b8854107a1fb21c894c8236b
+run_name: colorful-fowl-880
+run_uuid: 3b24c465b8854107a1fb21c894c8236b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692987181
+status: 3
+tags: []
+user_id: ynany

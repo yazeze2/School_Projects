@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/2b1f20372b644e41af9d0e196f09b6ca/artifacts
+end_time: 1696693767674
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 2b1f20372b644e41af9d0e196f09b6ca
+run_name: shivering-slug-452
+run_uuid: 2b1f20372b644e41af9d0e196f09b6ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696693753867
+status: 3
+tags: []
+user_id: ynany

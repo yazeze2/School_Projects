@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/de00f412926f49809edf6f007c1acf9d/artifacts
+end_time: 1696692441472
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: de00f412926f49809edf6f007c1acf9d
+run_name: likeable-sloth-582
+run_uuid: de00f412926f49809edf6f007c1acf9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692441313
+status: 3
+tags: []
+user_id: ynany

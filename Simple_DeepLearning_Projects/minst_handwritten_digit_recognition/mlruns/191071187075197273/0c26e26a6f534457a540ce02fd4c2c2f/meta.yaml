@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/0c26e26a6f534457a540ce02fd4c2c2f/artifacts
+end_time: 1696692857855
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 0c26e26a6f534457a540ce02fd4c2c2f
+run_name: enchanting-roo-329
+run_uuid: 0c26e26a6f534457a540ce02fd4c2c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692857746
+status: 3
+tags: []
+user_id: ynany

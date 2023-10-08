@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/11585de9b12a4c3abda3c1e0228f8b6a/artifacts
+end_time: 1696690322784
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 11585de9b12a4c3abda3c1e0228f8b6a
+run_name: silent-finch-947
+run_uuid: 11585de9b12a4c3abda3c1e0228f8b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690322689
+status: 3
+tags: []
+user_id: ynany

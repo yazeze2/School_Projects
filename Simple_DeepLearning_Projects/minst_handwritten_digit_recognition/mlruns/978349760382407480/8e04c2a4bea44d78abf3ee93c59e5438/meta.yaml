@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/978349760382407480/8e04c2a4bea44d78abf3ee93c59e5438/artifacts
+end_time: 1696699811187
+entry_point_name: ''
+experiment_id: '978349760382407480'
+lifecycle_stage: active
+run_id: 8e04c2a4bea44d78abf3ee93c59e5438
+run_name: debonair-hare-840
+run_uuid: 8e04c2a4bea44d78abf3ee93c59e5438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696699811140
+status: 3
+tags: []
+user_id: ynany

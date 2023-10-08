@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/4e55283cb07747a6ab9a440b1565dab3/artifacts
+end_time: 1696692780595
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 4e55283cb07747a6ab9a440b1565dab3
+run_name: mysterious-vole-390
+run_uuid: 4e55283cb07747a6ab9a440b1565dab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696692780470
+status: 3
+tags: []
+user_id: ynany

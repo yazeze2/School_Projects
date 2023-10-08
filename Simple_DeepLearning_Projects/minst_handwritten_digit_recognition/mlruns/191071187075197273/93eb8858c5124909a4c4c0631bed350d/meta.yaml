@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/93eb8858c5124909a4c4c0631bed350d/artifacts
+end_time: 1696689544192
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 93eb8858c5124909a4c4c0631bed350d
+run_name: rambunctious-hen-743
+run_uuid: 93eb8858c5124909a4c4c0631bed350d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696689544097
+status: 3
+tags: []
+user_id: ynany

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/5ea3dd0975194dd9b2e7b78667d662f8/artifacts
+end_time: 1696689401425
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 5ea3dd0975194dd9b2e7b78667d662f8
+run_name: inquisitive-doe-176
+run_uuid: 5ea3dd0975194dd9b2e7b78667d662f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696689401328
+status: 3
+tags: []
+user_id: ynany

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/f720b29d70d741f9af72cf59c165bfc0/artifacts
+end_time: 1696690387383
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: f720b29d70d741f9af72cf59c165bfc0
+run_name: indecisive-chimp-316
+run_uuid: f720b29d70d741f9af72cf59c165bfc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690387274
+status: 3
+tags: []
+user_id: ynany

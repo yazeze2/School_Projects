@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/937f3ee26d6a424986519f8f1735d5eb/artifacts
+end_time: 1696689433804
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 937f3ee26d6a424986519f8f1735d5eb
+run_name: beautiful-gnu-242
+run_uuid: 937f3ee26d6a424986519f8f1735d5eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696689433726
+status: 3
+tags: []
+user_id: ynany

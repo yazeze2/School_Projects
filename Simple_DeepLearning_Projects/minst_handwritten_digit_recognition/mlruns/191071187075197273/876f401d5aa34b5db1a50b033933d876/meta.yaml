@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ynany/Desktop/Jupyter_Notebooks/GitHub_Projects/Simple_DeepLearning_Projects/minst_handwritten_digit_recognition/mlruns/191071187075197273/876f401d5aa34b5db1a50b033933d876/artifacts
+end_time: 1696690570699
+entry_point_name: ''
+experiment_id: '191071187075197273'
+lifecycle_stage: active
+run_id: 876f401d5aa34b5db1a50b033933d876
+run_name: overjoyed-goose-70
+run_uuid: 876f401d5aa34b5db1a50b033933d876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696690570525
+status: 3
+tags: []
+user_id: ynany
